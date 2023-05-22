@@ -1,4 +1,5 @@
 #                                          Howdy, nice to meet you! My name is Echo.
+![Hi](https://github.com/eckoecho/echo/assets/43970023/8379fa76-53b0-498f-b0ac-f8a22a5fff42)
 
 Thanks for strolling over to my corner of Github. 
 I am a ...
@@ -10,4 +11,5 @@ I am a ...
 Connect with me @:
 
 
-![linkedin symbol](https://github.com/eckoecho/echo/assets/43970023/ed39fbf0-7448-4cb8-84e4-4f08736e690d)
+![in](https://github.com/eckoecho/echo/assets/43970023/87293328-a533-4b22-a4c8-6b3b634baf8a)
+<img src=”https://linkedin.com/in/virtual-echo”>
